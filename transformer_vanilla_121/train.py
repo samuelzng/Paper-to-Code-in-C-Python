@@ -1,4 +1,4 @@
-from vanilla_transformer_121.transformer_vanilla import subsequent_mask
+from transformer_vanilla_121.transformer_vanilla import subsequent_mask
 import torch
 from torch.amp import autocast, GradScaler
 
